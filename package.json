@@ -1,0 +1,11 @@
+{
+  "name": "paquete_tecmarket",
+  "version": "1.0.0",
+  "description": "Primer paquete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tecmarket",
+  "license": "ISC"
+}
